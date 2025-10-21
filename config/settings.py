@@ -23,6 +23,11 @@ class Settings(BaseSettings):
     STORAGE_TYPE: str = "local"
     STORAGE_PATH: str = "./data/images"
 
+    # Supabase Storage
+    SUPABASE_URL: str = ""
+    SUPABASE_ANON_KEY: str = ""
+    SUPABASE_BUCKET_NAME: str = "arbor_images"
+
     # Gemini
     GEMINI_API_KEY: str
     GEMINI_MODEL: str = "gemini-2.5-flash"

@@ -9,6 +9,7 @@ google-auth>=2.0.0
 # Database & ORM
 SQLAlchemy>=2.0.0,<3.0.0
 psycopg2-binary
+supabase>=2.0.0
 
 # Redis Session Management
 redis>=5.0.0
