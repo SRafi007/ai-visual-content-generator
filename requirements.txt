@@ -8,7 +8,7 @@ google-auth==2.41.1
 
 # Database & ORM
 SQLAlchemy==2.0.25
-psycopg2-binary==2.9.9
+psycopg2-binary
 
 # Redis Session Management
 redis==5.0.1
