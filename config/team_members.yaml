@@ -1,0 +1,36 @@
+team_members:
+  - email: sadmansakib.arboraistudio@gmail.com
+    name: Sadman Sakib
+    role: admin
+    team: development
+    password: arbor2024
+
+  - email: debjoty.arboraistudio@gmail.com
+    name: Debjoty
+    role: user
+    team: development
+    password: arbor2024
+
+  - email: istiak.arboraistudio@gmail.com
+    name: Istiak
+    role: user
+    team: marketing
+    password: arbor2024
+
+  - email: saif.arboraistudio@gmail.com
+    name: Saif
+    role: user
+    team: business
+    password: arbor2024
+
+  - email: anamul.arboraistudio@gmail.com
+    name: Shohan
+    role: user
+    team: development
+    password: arbor2024
+
+  - email: pulak.arboraistudio@gmail.com
+    name: Pulak
+    role: admin
+    team: management
+    password: arbor2024
