@@ -1,35 +1,35 @@
 # Core Framework
-streamlit==1.31.0
+streamlit>=1.31.0,<2.0.0
 
 # AI/ML Services
-google-generativeai==0.8.3
-google-genai==0.2.2
-google-auth==2.41.1
+google-generativeai>=0.8.0
+google-genai>=0.2.0
+google-auth>=2.0.0
 
 # Database & ORM
-SQLAlchemy==2.0.25
+SQLAlchemy>=2.0.0,<3.0.0
 psycopg2-binary
 
 # Redis Session Management
-redis==5.0.1
+redis>=5.0.0
 
 # Configuration & Validation
-pydantic==2.6.1
-pydantic-settings==2.1.0
-python-dotenv==1.0.1
+pydantic>=2.0.0,<3.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
 
 # Image Processing
-Pillow==10.2.0
+Pillow>=10.0.0
 
 # Data Processing
-pandas==2.3.3
-PyYAML==6.0.1
+pandas>=2.0.0
+PyYAML>=6.0.0
 
 # Security
-bcrypt==4.1.2
-email-validator==2.3.0
+bcrypt>=4.0.0
+email-validator>=2.0.0
 pyjwt
 
 # Utilities
-requests==2.32.5
-tenacity==8.5.0
+requests>=2.31.0
+tenacity>=8.0.0
